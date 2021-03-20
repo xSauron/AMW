@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.exe
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.deps.json
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.runtimeconfig.json
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.runtimeconfig.dev.json
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.dll
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\bin\Debug\netcoreapp3.1\Implementacja Programu 1.pdb
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.AssemblyInfo.cs
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.dll
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.pdb
+H:\AMW\Semestr 2\GIT\AMW_2\Algorytmów i złożoności\18.03.2021\Implementacja Programu 1\Implementacja Programu 1\obj\Debug\netcoreapp3.1\Implementacja Programu 1.genruntimeconfig.cache
