@@ -24,6 +24,27 @@ namespace Implementacja_Programu_3
                 }
             }
 
+            /* Wersja z dwoma pentlami 1 - Wczytywanie / 2 - Sprawdzanie minimalnej
+            
+            for(int i = 1; i <= N; i++)
+            {
+                Console.Write("Podaj wartość a[" + i + "] = ");
+                a[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+
+            minimalna = a[1];
+
+            for(int i = 2; i <= N; i++)
+            {
+                if (a[i] < minimalna)
+                {
+                    minimalna = a[i];
+                }
+            }
+
+            */
+
             Console.WriteLine("Liczba minimalna = " + minimalna);
             Console.WriteLine("Kliknij dowolny klawisz aby zamknąć program!");
             Console.ReadKey();
