@@ -42,7 +42,7 @@ namespace Implementacja_Programu_4._2
             Console.WriteLine("-----");
             for (int k = 1; k <= N; k++)
             {
-                Console.WriteLine("Wartość a[" + i + "] = " + a[i]);
+                Console.WriteLine("Wartość a[" + k + "] = " + a[k]);
 
             }
 
