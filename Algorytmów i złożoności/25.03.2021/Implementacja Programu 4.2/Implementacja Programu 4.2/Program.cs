@@ -36,6 +36,7 @@ namespace Implementacja_Programu_4._2
                         s = 1;
                     }
                 }
+                Console.WriteLine("S");
                 i++;
             }
 
