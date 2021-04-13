@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\bin\Debug\netcoreapp3.1\Licznik znakow.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\Licznik znakow\Licznik znakow\obj\Debug\netcoreapp3.1\Licznik znakow.genruntimeconfig.cache
