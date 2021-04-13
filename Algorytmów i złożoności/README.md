@@ -1,3 +1,4 @@
+Nr 7 </br>
 
 04.03.2021 - Najmniejsza z N, Najmniejsza z "GWIAZDKAMI", Najmniejsza z tablicy<br />
 18.03.2021 - Implementacja z 04.03.2021, Prosta zamiana, Zamiana bąbelkowa<br />
