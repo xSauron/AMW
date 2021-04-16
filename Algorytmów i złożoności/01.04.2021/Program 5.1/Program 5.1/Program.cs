@@ -46,7 +46,7 @@ namespace Program_5._1
                 }
                 p = k - 1;
             }
-            while (l < p);
+            while (l <= p);
 
 
             Console.WriteLine("----- WYPISANIE -----");
