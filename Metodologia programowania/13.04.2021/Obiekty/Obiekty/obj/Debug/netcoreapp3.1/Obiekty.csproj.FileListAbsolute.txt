@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\bin\Debug\netcoreapp3.1\Obiekty.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Obiekty\Obiekty\obj\Debug\netcoreapp3.1\Obiekty.genruntimeconfig.cache
