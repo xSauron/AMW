@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\bin\Debug\netcoreapp3.1\Naczynia.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\13.04.2021\Naczynia\Naczynia\obj\Debug\netcoreapp3.1\Naczynia.genruntimeconfig.cache
