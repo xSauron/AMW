@@ -6,14 +6,39 @@ namespace Obiekty
     {
         static void Main(string[] args)
         {
-            Nauczyciel pracownik = new Nauczyciel();
+            Pracownik pracownik;
+            Nagl();
+            pracownik = Wybor();
             Instruckja();
             Menu(pracownik);
         }
 
+        static void Nagl()
+        {
+            Console.WriteLine(".--------| Typ |--------.");
+            Console.WriteLine("| 1 <- Pracownik        |");
+            Console.WriteLine("| 2 <- Nauczyciel       |");
+            Console.WriteLine("'-----------------------'");
+        }
+
+        static Pracownik Wybor()
+        {
+            Console.Write("\nWybierz operacje: ");
+            ConsoleKeyInfo kl = Console.ReadKey();
+            switch (kl.KeyChar)
+            {
+                case '1':
+                    return new Pracownik();
+                case '2':
+                    return new Nauczyciel();
+                default:
+                    return null;
+            }
+        }
+
         static void Instruckja()
         {
-            Console.WriteLine(".--------| Informacje |--------.");
+            Console.WriteLine("\n.--------| Informacje |--------.");
             Console.WriteLine("| 1 <- Wczytaj                 |");
             Console.WriteLine("| 2 <- Pensja Netto            |");
             Console.WriteLine("| 3 <- Wyswielt Netto          |");
@@ -22,7 +47,7 @@ namespace Obiekty
             Console.WriteLine("'------------------------------'");
         }
 
-        static void Menu(Nauczyciel pracownik)
+        static void Menu(Pracownik pracownik)
         {
             bool ok = true;
             while (ok) {
@@ -48,12 +73,27 @@ namespace Obiekty
                         pracownik.Wyswietl();
                         break;
                     case ConsoleKey.D4:
-                        Console.Write("\nPremia: ");
-                        int premia = int.Parse(Console.ReadLine());
-                        pracownik.WczytajPremia(premia);
+                        if(pracownik is Nauczyciel)
+                        {
+                            Console.Write("\nPremia: ");
+                            int premia = int.Parse(Console.ReadLine());
+                            (pracownik as Nauczyciel).WczytajPremia(premia);
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nBłąd! Funkcja dla Nauczyciela!");
+                        }
+                        
                         break;
                     case ConsoleKey.D5:
-                        pracownik.WyswietlSkładowe();
+                        if(pracownik is Nauczyciel)
+                        {
+                            (pracownik as Nauczyciel).WyswietlSkładowe();
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nBłąd! Funkcja dla Nauczyciela!");
+                        }
                         break;
                 }
             }
