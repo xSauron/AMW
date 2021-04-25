@@ -1,0 +1,26 @@
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.csprojAssemblyReference.cache
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfoInputs.cache
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfo.cs
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.csproj.CoreCompileInputs.cache
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.exe
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.deps.json
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.json
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.dev.json
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.dll
+D:\Projekty\Sauron\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.pdb
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.dll
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.pdb
+D:\Projekty\Sauron\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.genruntimeconfig.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\bin\Debug\netcoreapp3.1\Figury.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\20.04.2021\Figury\Figury\obj\Debug\netcoreapp3.1\Figury.genruntimeconfig.cache
