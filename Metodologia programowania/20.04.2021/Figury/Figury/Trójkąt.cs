@@ -4,24 +4,24 @@ using System.Text;
 
 namespace Figury
 {
-    class Prostokąt : Figura
+    class Trójkąt : Figura
     {
-        float a, b;
-        public Prostokąt()
+        float a, h;
+        public Trójkąt()
         {
             Console.Write("a=");
             a = float.Parse(Console.ReadLine());
-            Console.Write("b=");
-            b = float.Parse(Console.ReadLine());
+            Console.Write("h=");
+            h = float.Parse(Console.ReadLine());
         }
         public override float Obwód()
         {
-            return 2 * (a + b);
+            return a + h + (float)Math.Sqrt(a * a + h * h);
         }
 
         public override float Pole()
         {
-            return a * b;
+            return (a * h)/2;
         }
     }
 }
