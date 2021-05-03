@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\bin\Debug\netcoreapp3.1\Pracownik Lista.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\27.04.2021\Pracownik Lista\Pracownik Lista\obj\Debug\netcoreapp3.1\Pracownik Lista.genruntimeconfig.cache
