@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\bin\Debug\netcoreapp3.1\Macierz.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\04.05.2021\Macierz\Macierz\obj\Debug\netcoreapp3.1\Macierz.genruntimeconfig.cache
