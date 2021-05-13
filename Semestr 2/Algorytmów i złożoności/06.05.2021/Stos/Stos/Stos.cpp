@@ -63,6 +63,7 @@ void menu()
     cout << "| 1. Dodaj element osob      |" << endl;
     cout << "| 2. Usuń element z gory     |" << endl;
     cout << "| 3. Wyświetl stos           |" << endl;
+    cout << "| 4. Koniec                  |" << endl;
     cout << "'----------------------------'" << endl;
 }
 
@@ -71,37 +72,40 @@ void ini(){
     element_stosu* x = NULL;
 
     int numerMenu;
-
+    bool koniec = false;
     do
     {
         menu();
 
         cout << "Wybierz opcje menu: ";
         cin >> numerMenu;
+        
 
         switch (numerMenu)
         {
-        case 1:
-            x = na_stos(x);
-            break;
+            case 1:
+                x = na_stos(x);
+                break;
 
-        case 2:
-            x = ze_stosu(x);
-            break;
+            case 2:
+                x = ze_stosu(x);
+                break;
 
-        case 3:
-            wyswietl_stos(x);
-            break;
-
-        default:
-            cout << "Wybrano nieprawidlową opcję\n";
-            break;
+            case 3:
+                wyswietl_stos(x);
+                break;
+            case 4:
+                koniec = true;
+                break;
+            default:
+                cout << "Wybrano nieprawidlową opcję\n";
+                break;
         }
 
         cout << "\n__Wcisnij dowolny przycisk aby kontynuowac!___\n";
         _getch();
         system("cls");
-    } while (1);
+    } while (koniec == false);
 }
 
 int main()
