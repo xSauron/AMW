@@ -72,7 +72,6 @@ void ini(){
     element_stosu* x = NULL;
 
     int numerMenu;
-    bool koniec = false;
     do
     {
         menu();
@@ -95,7 +94,7 @@ void ini(){
                 wyswietl_stos(x);
                 break;
             case 4:
-                koniec = true;
+                exit(0);
                 break;
             default:
                 cout << "Wybrano nieprawidlową opcję\n";
@@ -105,7 +104,7 @@ void ini(){
         cout << "\n__Wcisnij dowolny przycisk aby kontynuowac!___\n";
         _getch();
         system("cls");
-    } while (koniec == false);
+    } while (1);
 }
 
 int main()
