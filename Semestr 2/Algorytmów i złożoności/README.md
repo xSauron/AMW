@@ -7,3 +7,5 @@ Nr 7 </br>
 15.04.2021 - Implementacja z 01.04.2021, Sortowanie przez kopcowanie<br />
 29.04.2021 - Implementacja z 15.04.2021, Sortowanie przez Merge<br />
 06.05.2021 - Implementacja z 29.04.2021, Kolokwium, Stos<br />
+13.05.2021 - Kolejka, Kubełki
+20.05.2021 - Kolokwium
