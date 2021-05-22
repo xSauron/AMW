@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\bin\Debug\netcoreapp3.1\Zad1.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Zad1\Zad1\obj\Debug\netcoreapp3.1\Zad1.genruntimeconfig.cache
