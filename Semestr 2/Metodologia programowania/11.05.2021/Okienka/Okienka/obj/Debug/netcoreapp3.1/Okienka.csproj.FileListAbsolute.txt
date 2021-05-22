@@ -1,0 +1,15 @@
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.exe
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.deps.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\bin\Debug\netcoreapp3.1\Okienka.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.Form1.resources
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.csproj.GenerateResource.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.dll
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.pdb
+H:\AMW\Semestr 2\Laboratoria\Metodologia programowania\11.05.2021\Okienka\Okienka\obj\Debug\netcoreapp3.1\Okienka.genruntimeconfig.cache
