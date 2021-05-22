@@ -1,0 +1,26 @@
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.exe
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.deps.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.genruntimeconfig.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.exe
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.deps.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\bin\Debug\netcoreapp3.1\Kopiec.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Kopiec (Fix)\Kopiec\obj\Debug\netcoreapp3.1\Kopiec.genruntimeconfig.cache

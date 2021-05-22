@@ -1,0 +1,13 @@
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.exe
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.deps.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.runtimeconfig.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.runtimeconfig.dev.json
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\bin\Debug\netcoreapp3.1\Merge.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.csprojAssemblyReference.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.AssemblyInfoInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.AssemblyInfo.cs
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.csproj.CoreCompileInputs.cache
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.dll
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.pdb
+H:\AMW\Semestr 2\Laboratoria\Algorytmy i złożoność [Tadeusz Niemczyk]\29.04.2021\Merge\Merge\obj\Debug\netcoreapp3.1\Merge.genruntimeconfig.cache
