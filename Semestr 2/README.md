@@ -1,3 +1,3 @@
-# AMW_2
+# Semestr II
 
-Zadania domowe z AMW
+
