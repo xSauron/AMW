@@ -1,2 +1,2 @@
 # AMW
-Rozwiązania zadań domowych i projektów. Semestr II
+Rozwiązania zadań domowych i projektów. Semestr I i II
