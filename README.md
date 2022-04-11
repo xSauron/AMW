@@ -1,10 +1,10 @@
 # AMW
 Rozwiązania zadań domowych i projektów. 
 
-#Rok I
+# Rok I
 Semestr 1 i 2:
 C, C++, C#
-#Rok II
+# Rok II
 Semestr 3:
 Java
 Semestr 4:
