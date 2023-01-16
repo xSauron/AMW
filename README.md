@@ -1,5 +1,5 @@
 # AMW
-Rozwiązania zadań domowych i projektów. 
+Rozwiązania zadań domowych, projektów, labów. 
 
 # Rok I
 Semestr 1 i 2:\
