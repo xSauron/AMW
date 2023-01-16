@@ -9,3 +9,8 @@ Semestr 3:
 Java
 Semestr 4:
 Python
+# Rok III
+Semestr 5:
+C#, JS, PHP, Python
+Semestr 6:
+---
