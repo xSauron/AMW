@@ -1,0 +1,9 @@
+created(1669747648.869606).
+assert(student(1,adrian,jasek,5.0,it)).
+assert(student(2,adam,nowak,3.0,mechanika)).
+assert(student(3,bartek,kowal,4.5,it)).
+assert(student(4,adrian,dominik,4.0,it)).
+assert(student(5,kuba,prolog,4.0,mechanika)).
+retract(student(5,kuba,prolog,4.0,mechanika)).
+assert(student(5,kuba,prolog,3.0,mechanika)).
+retract(student(5,kuba,prolog,3.0,mechanika)).
