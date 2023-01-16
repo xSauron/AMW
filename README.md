@@ -13,4 +13,4 @@ Python
 Semestr 5:
 C#, JS, PHP, Python
 Semestr 6:
----
+
