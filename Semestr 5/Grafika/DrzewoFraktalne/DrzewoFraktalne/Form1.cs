@@ -1,35 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 using Tao.OpenGl;
+using Tao.Platform;
 using Timer = System.Windows.Forms.Timer;
 
 namespace DrzewoFraktalne
 {
     public partial class Form1 : Form
     {
+        //The WOOD_LENGTH, WOOD_RED, WOOD_GREEN, and WOOD_BLUE values are used to control the appearance of the wood part of the tree.
         double WOOD_LENGTH = 0.25;
         double WOOD_RED = 0.58;
         double WOOD_GREEN = 0.29;
         double WOOD_BLUE = 0;
 
+        //The LEAF_SIZE, LEAF_RED, LEAF_GREEN, and LEAF_BLUE values are used to control the appearance of the leaves
         const double LEAF_SIZE = 0.01;
         double LEAF_RED = 0;
         double LEAF_GREEN = 0.65;
         double LEAF_BLUE = 0.41;
 
+        //The AXIOM and RULE constants are used to generate the L-system sequence
         const string AXIOM = "X";
         const string RULE = "F[@[[+{0}{1}{2}-{3}{4}{5}XL]-{6}{7}{8}XL]+{9}{10}{11}XL]";
 
         const double TO_RADIANS = Math.PI / 180;
 
+        //The DEPTH variable controls the depth of the tree,
         int DEPTH = 8;
+        //The crown variable controls the crown of the tree
         int crown = 45;
+        //The angle variable controls the angle of rotation
         int angle = 0;
+        //The sequence variable stores the L-system sequence.
         string sequence;
 
+        //The growthCount variable keeps track of how many iterations of the L-system have been generated.
         int growthCount = 0;
 
         Timer timer = new Timer();
         Timer growthTimer = new Timer();
         Random rand = new Random((int)DateTime.Now.Ticks & 0x0000FFFF);
+
+        //The memory and current variables are used to store the state of the tree.
         Stack<State> memory = new Stack<State>();
         State current = new State();
 
@@ -60,6 +80,9 @@ namespace DrzewoFraktalne
             }
         }
 
+        /// <summary>
+        /// It initializes the form's components, sets the properties of the timers, and starts the timers.
+        /// </summary>
         public Form1()
         {
             InitializeComponent();
@@ -78,6 +101,13 @@ namespace DrzewoFraktalne
             Gl.glEnable(Gl.GL_DEPTH_TEST);
         }
 
+        /// <summary>
+        /// This is the event handler for the growthTimer's tick event. It is called every time the growthTimer's interval elapses.
+        /// It increments the growthCount variable and generates the next iteration of the L-system sequence if the growthCount is less than the DEPTH.
+        /// If the growthCount is equal to the DEPTH, the growthTimer is stopped.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void GrowthTimer_Tick(object sender, EventArgs e)
         {
 
@@ -99,6 +129,12 @@ namespace DrzewoFraktalne
                 growthTimer.Stop();
             }
         }
+
+        /// <summary>
+        /// This method starts both timers and sets the growthCount to 0.
+        /// It is used to start the animation of the tree growing.
+        /// </summary>
+        /// <param name="depth"></param>
         private void GrowTreeAnimated(int depth)
         {
             timer.Start();
@@ -106,16 +142,31 @@ namespace DrzewoFraktalne
             growthTimer.Start();
         }
 
+        /// <summary>
+        /// This is the event handler for the timer's tick event.
+        /// It is called every time the timer's interval elapses.
+        /// It increments the angle variable and causes the canvas to be redrawn.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Timer_Tick(object sender, EventArgs e)
         {
             angle += 2;
             canvas.Invalidate();
         }
 
+        /// <summary>
+        /// This is the event handler for the canvas's paint event.
+        /// It is called when the canvas needs to be redrawn.
+        /// It clears the color and depth buffers, sets up the perspective, rotates the tree, and draws the tree using the L-system sequence stored in the sequence variable.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void canvas_Paint(object sender, PaintEventArgs e)
         {
             if (sequence == null)
                 return;
+
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT | Gl.GL_DEPTH_BUFFER_BIT);
             Gl.glLoadIdentity();
             Glu.gluPerspective(45, canvas.Width / canvas.Height, 0.1, 100);
@@ -165,7 +216,11 @@ namespace DrzewoFraktalne
             }
         }
 
-
+        /// <summary>
+        /// This method is used to draw a line segment representing a part of the tree.
+        /// It sets the line width to the current width of the tree, sets the color to the current color of the tree, and starts drawing a line from the current position of the tree to the new position
+        /// after applying rotation on ax, ay, az
+        /// </summary>
         void Forward()
         {
             Gl.glLineWidth((float)current.w);
@@ -188,6 +243,10 @@ namespace DrzewoFraktalne
             Gl.glEnd();
         }
 
+        /// <summary>
+        /// This method is used to draw a leaf for the tree.
+        /// It sets the color of the leaf to the LEAF_RED, LEAF_GREEN, and LEAF_BLUE values, and starts drawing a quad from the current position of the leaf.
+        /// </summary>
         void Leaf()
         {
             Gl.glBegin(Gl.GL_QUADS);
@@ -208,7 +267,14 @@ namespace DrzewoFraktalne
             Gl.glVertex3d(current.x, current.y, current.z - LEAF_SIZE);
             Gl.glEnd();
         }
-
+        /// <summary>
+        /// This method generates the next iteration of the L-system sequence.
+        /// It is called recursively with the current depth and the current sequence as the input.
+        /// It replaces each character in the current sequence according to the RULE constant and returns the new sequence.
+        /// </summary>
+        /// <param name="depth"></param>
+        /// <param name="sequence"></param>
+        /// <returns></returns>
         string ConstructSequence(int depth, string sequence)
         {
             for (int i = 0; i < depth; i++)
@@ -238,6 +304,16 @@ namespace DrzewoFraktalne
             }
             return sequence;
         }
+
+        /// <summary>
+        /// This method takes in a matrix, angleX, angleY, and angleZ and applies rotation on this matrix using angleX, angleY and angleZ.
+        /// It converts the angleX, angleY, and angleZ to radians, creates 3 rotation matrices for the X, Y and Z axis and then multiplies the input matrix with these rotation matrices in the order X, Y, Z and returns the resulting matrix.
+        /// </summary>
+        /// <param name="fig"></param>
+        /// <param name="angleX"></param>
+        /// <param name="angleY"></param>
+        /// <param name="angleZ"></param>
+        /// <returns></returns>
         double[,] Rotation(double[,] fig, double angleX, double angleY, double angleZ)
         {
             angleX *= TO_RADIANS;
@@ -269,6 +345,12 @@ namespace DrzewoFraktalne
             return Mult(result, rotZ);
         }
 
+        /// <summary>
+        /// This method is used to multiply two matrices 'a' and 'b' and returns the resulting matrix. It uses the standard matrix multiplication algorithm to calculate the result.
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         double[,] Mult(double[,] a, double[,] b)
         {
             double[,] res = new double[a.GetLength(0), b.GetLength(1)];
