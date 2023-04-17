@@ -2,7 +2,9 @@
 Rozwiązania zadań domowych, projektów, labów. 
 
 # Rok I
-Semestr 1 i 2:\
+Semestr 1 :\
+C, C++, C#
+Semestr 2:\
 C, C++, C#
 # Rok II
 Semestr 3:\
