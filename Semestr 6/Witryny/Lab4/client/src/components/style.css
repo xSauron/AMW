@@ -1,0 +1,18 @@
+.light-green {
+    background-color:PaleGreen;
+}
+
+.very-light-green{
+    background-color:Honeydew;
+}
+
+table {
+    margin: 0 auto;
+    width: 95%;
+  }
+  
+  td,
+  th {
+    padding: 20px 0;
+    border: 1px solid black;
+  }
