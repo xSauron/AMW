@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/almostblack"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sortowania"
+            android:textAllCaps="true"
+            android:lines="1"
+            android:maxLines="1"
+            android:textColor="@color/orange"
+            android:textAlignment="center"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toTopOf="@id/choiceTitle"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+             />
+
+        <TextView
+            android:id="@+id/choiceTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wybierz jakiego sortowania chcesz użyć:"
+            android:lines="2"
+            android:maxLines="2"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        >
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/groupSort">
+            <RadioButton
+                style="@style/radioButton"
+                android:id="@+id/bubbleSort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sortowanie bąbelkowe" />
+            <RadioButton
+                style="@style/radioButton"
+                android:id="@+id/insertSort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sortowanie przez wstawianie" />
+            <RadioButton
+                style="@style/radioButton"
+                android:id="@+id/mergeSort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sortowanie przez scalanie" />
+            <RadioButton
+                style="@style/radioButton"
+                android:id="@+id/selectionSort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sortowanie przez wybór" />
+            <RadioButton
+                style="@style/radioButton"
+                android:id="@+id/quickSort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sortowanie szybkie" />
+        </RadioGroup>
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="40dp">
+        <TextView
+            android:id="@+id/descriptionTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Opis"
+            android:textAllCaps="true"
+            android:lines="1"
+            android:maxLines="1"
+            android:textColor="@color/orange"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="..."
+            android:textAllCaps="true"
+            android:lines="4"
+            android:maxLines="4"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintTop_toBottomOf="@id/descriptionTitle"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingBottom="10dp">
+
+        <TextView
+            android:id="@+id/inputTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wejście:"
+            android:textAllCaps="true"
+            android:lines="1"
+            android:maxLines="1"
+            android:textColor="@color/orange"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <EditText
+            android:id="@+id/input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="20"
+            android:textSize="20sp"
+            android:inputType="textPersonName"
+            android:text="..."
+            android:textColor="@color/white"
+            android:backgroundTint="@color/white"
+            app:layout_constraintTop_toBottomOf="@id/inputTitle"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <Button
+            android:id="@+id/sortButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sort"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
